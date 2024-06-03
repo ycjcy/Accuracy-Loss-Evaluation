@@ -40,6 +40,24 @@ We consider convolutional neural networks (CNNs) trained on standard datasets fo
 | MobileNetV2_5 | 81.43% | 83.67% | 2.24% |
 | Average | - | - | 2.05% |
 
+| Model | label Accuracy | Prediction accuracy | Prediction error  |
+| ------ | ------ | ------ | ------ |
+| ResNet50_1 | 88.58% | 89.95% | 1.37% | 
+| ResNet50_2 |	87.21% | 88.59% | 1.38% |
+| ResNet50_3 | 86.38% | 83.64% | 2.74% |
+| ResNet50_4 |  83.31% | 85.46% | 2.15% |
+| ResNet50_5 | 85.13% | 83.20% | 1.93% |
+| Average | - | - | 1.91% |
+
+| Model | label Accuracy | Prediction accuracy | Prediction error  |
+| ------ | ------ | ------ | ------ |
+| VGG16_1 | 87.06% | 86.62% | 0.44% | 
+| VGG16_2 |	87.55% | 86.63% | 0.92% |
+| VGG16_3 | 85.45% | 86.56% | 1.11% |
+| VGG16_4 | 85.69% | 85.47% | 0.22% |
+| VGG16_5 | 86.67% | 86.64% | 0.03% |
+| Average | - | - | 0.54% |
+
 ## License
 
 [Xi’an Microelectronics Technology Institute](LICENSE) © ycjcy
